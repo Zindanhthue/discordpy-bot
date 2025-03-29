@@ -20,7 +20,7 @@ This example starts a Discord bot using [discord.py](https://discordpy.readthedo
 ## 💁‍♀️ How to use
 
 - Install packages using `pip install -r requirements.txt`
-- Start the bot using `python bot.py`
+- Start the bot using `python botnghe.py`
 
 ## 📝 Notes
 
